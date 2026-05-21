@@ -10,7 +10,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/collinpfeifer/beluga-ext-remora/internal/executor"
+	"github.com/aspectrr/beluga-ext-remora/internal/executor"
 )
 
 // FileInfo describes a file to be synced.

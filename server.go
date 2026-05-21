@@ -4,7 +4,7 @@ import (
 	"io"
 	"log/slog"
 
-	sdk "github.com/collinpfeifer/beluga-ext-sdk/belugav1"
+	sdk "github.com/aspectrr/beluga-ext-sdk/belugav1"
 )
 
 // RemoraServiceServer implements the gRPC RemoraService for Beluga.

@@ -12,9 +12,9 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/collinpfeifer/beluga-ext-remora/internal/client"
-	"github.com/collinpfeifer/beluga-ext-remora/internal/config"
-	"github.com/collinpfeifer/beluga-ext-remora/internal/executor"
+	"github.com/aspectrr/beluga-ext-remora/internal/client"
+	"github.com/aspectrr/beluga-ext-remora/internal/config"
+	"github.com/aspectrr/beluga-ext-remora/internal/executor"
 )
 
 func main() {

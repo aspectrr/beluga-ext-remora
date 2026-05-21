@@ -8,7 +8,7 @@ Remora is the Beluga remote host daemon extension. It has two components:
 ## Install into Beluga
 
 ```bash
-beluga extend install github.com/collinpfeifer/beluga-ext-remora
+beluga extend install github.com/aspectrr/beluga-ext-remora
 ```
 
 Requires the `ext_host` extension to be enabled (provides the gRPC server).

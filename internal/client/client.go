@@ -8,9 +8,9 @@ import (
 	stdsync "sync"
 	"time"
 
-	sdk "github.com/collinpfeifer/beluga-ext-sdk/belugav1"
-	"github.com/collinpfeifer/beluga-ext-remora/internal/executor"
-	remorasync "github.com/collinpfeifer/beluga-ext-remora/internal/sync"
+	sdk "github.com/aspectrr/beluga-ext-sdk/belugav1"
+	"github.com/aspectrr/beluga-ext-remora/internal/executor"
+	remorasync "github.com/aspectrr/beluga-ext-remora/internal/sync"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/credentials/insecure"
 )
