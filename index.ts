@@ -17,7 +17,7 @@ import type {
 	Tool,
 	ToolDef,
 	ToolContext,
-} from "@beluga/sdk";
+} from "@aspectrr/beluga-sdk";
 import type { GRPCProvider } from "@beluga/ext-host";
 
 // ── Proto loading ──────────────────────────────────────────────
