@@ -3,5 +3,11 @@
   "entrypoint": "index.ts",
   "version": "0.1.0",
   "description": "Remote host management via remora daemons. Requires ext_host. Provides tools to execute commands on remote hosts.",
-  "config": []
+  "config": [],
+  "dependencies": [
+    {
+      "name": "ext_host",
+      "source": "https://github.com/aspectrr/beluga-ext-host"
+    }
+  ]
 }
